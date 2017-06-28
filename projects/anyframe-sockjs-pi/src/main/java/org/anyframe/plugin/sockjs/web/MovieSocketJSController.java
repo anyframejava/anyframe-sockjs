@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * 
  * @author Seongjong Yoon
  */
-@Controller("sockjsMovieSocketJSController")
+@Controller
 public class MovieSocketJSController {
 
 	@RequestMapping("sockJSMovieFinder.do")

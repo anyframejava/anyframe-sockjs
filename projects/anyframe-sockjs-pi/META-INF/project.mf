@@ -4,7 +4,7 @@ anyframe.home=
 #=== Project Information ====
 project.name=anyframe-sockjs-pi
 project.home=C:\\ats\\workspace\\anyframe-sockjs-pi
-project.version=1.0.0
+project.version=1.0.1-SNAPSHOT
 project.type=web
 project.build=maven
 project.template.home=C:\\ats\\workspace\\anyframe-sockjs-pi\\.settings\\anyframe\\templates
